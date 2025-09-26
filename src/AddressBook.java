@@ -24,5 +24,6 @@ public class AddressBook {
         addressBook.addBuddy(buddy);
         addressBook.removeBuddy(0);
         System.out.println("Hello ");
+        System.out.println("Online");
     }
 }
